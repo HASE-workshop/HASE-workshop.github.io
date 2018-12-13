@@ -8,8 +8,10 @@ Its first meeting will be on Saturday 12 and Sunday 13 January 2019 with an opti
 It is co-located with the [Real World Crypto](https://rwc.iacr.org/) conference, taking the place of [HACS](HACS-workshop.github.io), which is not being run in 2019.
 
 ## Accommodation
-The workshop will be held at X campus located at 100 Mayfield Avenue, California 94043
-[map](https://goo.gl/maps/a8LJLbWCctA2). Your best bet is to use one of the usual internet hotel booking websites or Airbnb. However, here are a few hotels not far from X.
+The workshop will be held in the RLS2 building at X campus located at [250 Mayfield Avenue, California 94043](https://goo.gl/maps/tVLjsRE1j4n). This is a single story building on the right hand
+side of Mayfield road as you enter (and the large multistorey building to your left which is RLS1).
+
+Your best bet for accommodation is to use one of the usual internet hotel booking websites or Airbnb. However, here are a few hotels not far from X.
 
 * [Hilton Garden Hotel](https://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-palo-alto-PAOCRGI), 4216 El Camino Real, Palo Alto, CA 94306. Time to X: 6-10 minutes.
 * [Dinah's Garden Hotel](https://www.dinahshotel.com), 4261 El Camino Real, Palo Alto, CA 94306. Time to X: 6-10 minutes.
