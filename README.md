@@ -9,31 +9,13 @@ It is co-located with the [Real World Crypto](https://rwc.iacr.org/) conference,
 
 ## Accommodation
 The workshop will be held at X campus located at 100 Mayfield Avenue, California 94043
-(map)(https://goo.gl/maps/a8LJLbWCctA2).
+[map](https://goo.gl/maps/a8LJLbWCctA2). Your best bet is to use one of the usual internet hotel booking websites or Airbnb. However, here are a few hotels not far from X.
 
-* Hilton Garden Hotel
-  4216 El Camino Real, Palo Alto, CA 94306
-  Time to X: 6-10 minutes
-
-* Dinah's Garden Hotel 
-  4261 El Camino Real, Palo Alto, CA 94306
-  Time to X: 6-10 minutes
-
-
-* Zen Hotel
-  4164 El Camino Real, Palo Alto, CA  94306
-  Time to X: 7-12 minutes
-
-* Enchante Hotel 
-  1 Main Street, Los Altos, California, 94022
-  Time to X:  10-15 minutes 
-
-* Sheraton Palo Alto
-  625 El Camino Real, Palo Alto, CA 94301
-  Time to X: 15-20 minutes
-
-* Westin Palo Alto
-  675 El Camino Real, Palo Alto, CA 94301
-  Time to X: 15-20 minutes
+* [Hilton Garden Hotel](https://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-palo-alto-PAOCRGI), 4216 El Camino Real, Palo Alto, CA 94306. Time to X: 6-10 minutes.
+* [Dinah's Garden Hotel](https://www.dinahshotel.com), 4261 El Camino Real, Palo Alto, CA 94306. Time to X: 6-10 minutes.
+* [Zen Hotel](http://www.thezenhotel.com), 4164 El Camino Real, Palo Alto, CA  94306. Time to X: 7-12 minutes.
+* [Enchante Hotel](https://www.enchantehotel.com/), 1 Main Street, Los Altos, California, 94022. Time to X:  10-15 minutes. 
+* [Sheraton Palo Alto](https://www.marriott.com/hotels/travel/sjcsi-sheraton-palo-alto-hotel/), 625 El Camino Real, Palo Alto, CA 94301. Time to X: 15-20 minutes.
+* [Westin Palo Alto](https://www.marriott.com/hotels/travel/sjcwp-the-westin-palo-alto/), 675 El Camino Real, Palo Alto, CA 94301. Time to X: 15-20 minutes.
 
 Website under construction.
