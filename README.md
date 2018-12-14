@@ -4,14 +4,15 @@ Our goal for HASE is to bring together the best implementers and verification ex
 
 
 Its first meeting will be on Saturday 12 and Sunday 13 January 2019 with an optional Hack Day on Monday 14 January 2014. The venue is the X (previously called Google[x]) in Mountain View, California, USA.
+On the Saturday and Sunday we will start at 10AM and end at 6PM. On the Monday Hack Day we will begin at 9AM and end at 3PM.
 
 It is co-located with the [Real World Crypto](https://rwc.iacr.org/) conference, taking the place of [HACS](HACS-workshop.github.io), which is not being run in 2019.
 
 ## Venue
 The workshop will be held in the RLS2 building at X campus located at [250 Mayfield Avenue, California 94043](https://goo.gl/maps/tVLjsRE1j4n). This is a single story building on the right hand
-side of Mayfield Avenue as you enter (and the large multistorey building to your left which is RLS1). The venue is right next to [San Antonio CalTrain station](http://www.caltrain.com/stations/sanantoniostation.html)
+side of Mayfield Avenue as you enter (and it is not the large multistorey building to your left which is RLS1). The venue is right next to [San Antonio CalTrain station](http://www.caltrain.com/stations/sanantoniostation.html)
 which has trains from/to San Francisco and San Jose. There is plenty of parking next to the RLS2 building.
-If you need help then please call the local contact Satnam Singh on 408 656 4590 or email satnam@google.com.
+If you need help please call the local contact Satnam Singh on 408 656 4590 or email satnam@google.com.
 
 ## Accommodation
 Your best bet for accommodation is to use one of the usual internet hotel booking websites or Airbnb. However, here are a few hotels not far from X.
