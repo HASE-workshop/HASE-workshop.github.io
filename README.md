@@ -34,7 +34,7 @@ or Airbnb. However, here are a few hotels not far from X.
 ## Restaurants
 Here are a few restaurants that are walking distance from the venue. We ask particiants to self-organize for dinner.
 
-* [Paul Martin's American Grill](https://paulmartinsamericangrill.com) Steak erc. themed medium-posh restaurant with bar.
+* [Paul Martin's American Grill](https://paulmartinsamericangrill.com) Steak etc. themed medium-posh restaurant with bar.
 * [Pacific Catch](https://pacificcatch.com/locations/mountain-view) Seafood themed medium-posh restaurant with bar.
 * [Dong Lai Shun](http://www.donglaishunca.com) Despite low-brow website, very good Chinese restaurant specializing in hot pot.
 * [Mizu Sushi Bar and Grill](http://mizusbg.com/mtnview/) A very decent sushi restaurant.
@@ -42,5 +42,8 @@ Here are a few restaurants that are walking distance from the venue. We ask part
 Just a little bit further:
 * [ASA](https://www.asalosaltos.com) A Spanish posh tapas restaurant which is Satnam's favourite restaurant in the area.
 * [Ambinace](http://www.ambiencefinedininglosaltos.com) Michelin-starred restaurant near ASA (but Satnam prefers ASA).
+
+Palo Alto is not far and has many good restaurants including the excellent Michelin-starred [Zola](http://www.zolapaloalto.com/).
+ASA, Ambiance and Zola will require advance booking.
 
 Website under construction.
