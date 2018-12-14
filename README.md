@@ -3,7 +3,8 @@
 Our goal for HASE is to bring together the best implementers and verification experts from open source, industry, and academia, introduce them and their projects to each other, and develop collaborations to produce verified, trustworthy systems code (we do not, however, want to nail down exactly what is meant by “systems code”).
 
 
-Its first meeting will be on Saturday 12 and Sunday 13 January 2019 with an optional Hack Day on Monday 14 January 2019. The venue is the [X](https://x.company/) (previously called Google[x]) in Mountain View, California, USA.
+Its first meeting will be on Saturday 12 and Sunday 13 January 2019 with an optional Hack Day on Monday 14 January 2019. The venue is the [X](https://x.company/) (previously called Google[x]) campus
+in Mountain View, California, USA.
 On the Saturday and Sunday we will start at 10AM and end at 6PM. On the Monday Hack Day we will begin at 9AM and end at 3PM.
 
 It is co-located with the [Real World Crypto](https://rwc.iacr.org/) conference, taking the place of [HACS](HACS-workshop.github.io), which is not being run in 2019.
@@ -21,7 +22,7 @@ If you need help please call the local contact Satnam Singh on 408 656 4590 or e
 ## Accommodation
 Your best bet for accommodation is to use one of the usual internet hotel booking websites
 (sample [query](https://www.google.com/maps/search/hotels/@37.4074635,-122.1140823,15z/data=!4m7!2m6!5m4!5m3!1s2019-01-11!2i3!3i1!6e3))
- or Airbnb. However, here are a few hotels not far from X.
+or Airbnb. However, here are a few hotels not far from X.
 
 * [Hilton Garden Hotel](https://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-palo-alto-PAOCRGI), 4216 El Camino Real, Palo Alto, CA 94306. Time to X: 6-10 minutes.
 * [Dinah's Garden Hotel](https://www.dinahshotel.com), 4261 El Camino Real, Palo Alto, CA 94306. Time to X: 6-10 minutes.
@@ -33,8 +34,13 @@ Your best bet for accommodation is to use one of the usual internet hotel bookin
 ## Restaurants
 Here are a few restaurants that are walking distance from the venue. We ask particiants to self-organize for dinner.
 
-* [Paul Martin's American Grill](https://paulmartinsamericangrill.com)
-* [Pacific Catch](https://pacificcatch.com/locations/mountain-view)
-* [Dong Lai Shun](http://www.donglaishunca.com)
+* [Paul Martin's American Grill](https://paulmartinsamericangrill.com) Steak erc. themed medium-posh restaurant with bar.
+* [Pacific Catch](https://pacificcatch.com/locations/mountain-view) Seafood themed medium-posh restaurant with bar.
+* [Dong Lai Shun](http://www.donglaishunca.com) Despite low-brow website, very good Chinese restaurant specializing in hot pot.
+* [Mizu Sushi Bar and Grill](http://mizusbg.com/mtnview/) A very decent sushi restaurant.
+
+Just a little bit further:
+* [ASA](https://www.asalosaltos.com) A Spanish posh tapas restaurant which is Satnam's favourite restaurant in the area.
+* [Ambinace](http://www.ambiencefinedininglosaltos.com) Michelin-starred restaurant near ASA (but Satnam prefers ASA).
 
 Website under construction.
