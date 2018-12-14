@@ -9,8 +9,8 @@ It is co-located with the [Real World Crypto](https://rwc.iacr.org/) conference,
 
 ## Venue
 The workshop will be held in the RLS2 building at X campus located at [250 Mayfield Avenue, California 94043](https://goo.gl/maps/tVLjsRE1j4n). This is a single story building on the right hand
-side of Mayfield Avenue as you enter (and the large multistorey building to your left which is RLS1). If you need help then please call the local contact Satnam Singh on 408 656 4590 or email
-satnam@google.com.
+side of Mayfield Avenue as you enter (and the large multistorey building to your left which is RLS1). The venue is right next to San Antionio CalTrain station.
+If you need help then please call the local contact Satnam Singh on 408 656 4590 or email satnam@google.com.
 
 ## Accommodation
 Your best bet for accommodation is to use one of the usual internet hotel booking websites or Airbnb. However, here are a few hotels not far from X.
