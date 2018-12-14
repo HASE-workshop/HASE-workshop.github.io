@@ -16,7 +16,7 @@ If you need help please call the local contact Satnam Singh on 408 656 4590 or e
 
 ## Accommodation
 Your best bet for accommodation is to use one of the usual internet hotel booking websites
-(sample [query])(https://www.google.com/maps/search/hotels/@37.4074635,-122.1140823,15z/data=!4m7!2m6!5m4!5m3!1s2019-01-11!2i3!3i1!6e3)
+(sample [query](https://www.google.com/maps/search/hotels/@37.4074635,-122.1140823,15z/data=!4m7!2m6!5m4!5m3!1s2019-01-11!2i3!3i1!6e3))
  or Airbnb. However, here are a few hotels not far from X.
 
 * [Hilton Garden Hotel](https://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-palo-alto-PAOCRGI), 4216 El Camino Real, Palo Alto, CA 94306. Time to X: 6-10 minutes.
