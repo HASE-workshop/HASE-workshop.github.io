@@ -9,6 +9,8 @@ On the Saturday and Sunday we will start at 10AM and end at 6PM. On the Monday H
 
 It is co-located with the [Real World Crypto](https://rwc.iacr.org/) conference, taking the place of [HACS](HACS-workshop.github.io), which is not being run in 2019.
 
+Please contact Sarah de Haas at dehaass@google.com if you have any questions about the event.
+
 ## Venue
 The workshop will be held in the RLS2 building at the [X](https://x.company/) campus located at [250 Mayfield Avenue, California 94043](https://goo.gl/maps/tVLjsRE1j4n).
 
