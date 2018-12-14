@@ -9,7 +9,7 @@ On the Saturday and Sunday we will start at 10AM and end at 6PM. On the Monday H
 It is co-located with the [Real World Crypto](https://rwc.iacr.org/) conference, taking the place of [HACS](HACS-workshop.github.io), which is not being run in 2019.
 
 ## Venue
-The workshop will be held in the RLS2 building at [X](https://x.company/) campus located at [250 Mayfield Avenue, California 94043](https://goo.gl/maps/tVLjsRE1j4n).
+The workshop will be held in the RLS2 building at the [X](https://x.company/) campus located at [250 Mayfield Avenue, California 94043](https://goo.gl/maps/tVLjsRE1j4n).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.2671109286807!2d-122.10698444888573!3d37.4071609408976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb0a048c1bf45%3A0xe8728bfe8b72b330!2sGoogle+Building+RLS2%2C+250+Mayfield+Ave%2C+Mountain+View%2C+CA+94043!5e0!3m2!1sen!2sus!4v1544762712385" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -31,7 +31,7 @@ Your best bet for accommodation is to use one of the usual internet hotel bookin
 * [Westin Palo Alto](https://www.marriott.com/hotels/travel/sjcwp-the-westin-palo-alto/), 675 El Camino Real, Palo Alto, CA 94301. Time to X: 15-20 minutes.
 
 ## Restaurants
-Here are a few restaurants that are walking distance from the venue.
+Here are a few restaurants that are walking distance from the venue. We ask particiants to self-organize for dinner.
 
 * [Paul Martin's American Grill](https://paulmartinsamericangrill.com)
 * [Pacific Catch](https://pacificcatch.com/locations/mountain-view)
