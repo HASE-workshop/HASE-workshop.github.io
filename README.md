@@ -18,8 +18,12 @@ The workshop will be held in the RLS2 building at the [X](https://x.company/) ca
 
 This is a single story building on the right hand
 side of Mayfield Avenue as you enter (and it is not the large multistorey building to your left which is RLS1). The venue is right next to [San Antonio CalTrain station](http://www.caltrain.com/stations/sanantoniostation.html)
-which has trains from/to San Francisco and San Jose. There is plenty of parking next to the RLS2 building.
-If you need help please call the local contact Satnam Singh on 408 656 4590 or email satnam@google.com.
+which has trains from/to San Francisco and San Jose. There is plenty of parking next to the RLS2 building. The enterance is locked during the weekend so Satnam or another
+Googler will be at the enterance between 9:30am and 10am to let you in.
+If you need help please call the local contact Satnam Singh on +1 408 656 4590 (also a WhatsApp number) or email satnam@google.com or via iMessage with satnam@raintown.org or
+via Facebook Messenger. You'll need to do this if you arrive after 10am.
+
+Please plan to arrive at 9:30am for coffee on Saturday, Sunday and (optionally Monday) so we can start promptly at 10am.
 
 ## Accommodation
 Your best bet for accommodation is to use one of the usual internet hotel booking websites
