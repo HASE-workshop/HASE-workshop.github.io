@@ -23,7 +23,8 @@ Googler will be at the enterance between 9:30am and 10am to let you in.
 If you need help please call the local contact Satnam Singh on +1 408 656 4590 (also a WhatsApp number) or email satnam@google.com or via iMessage with satnam@raintown.org or
 via Facebook Messenger. You'll need to do this if you arrive after 10am.
 
-Please plan to arrive at 9:30am for coffee on Saturday, Sunday and (optionally Monday) so we can start promptly at 10am.
+Please plan to arrive at 9:30am for coffee on Saturday, Sunday and optionally Monday so we can start promptly at 10am. On Monday the lobby will be open but you will still need
+to be issued a visitor badge.
 
 ## Accommodation
 Your best bet for accommodation is to use one of the usual internet hotel booking websites
