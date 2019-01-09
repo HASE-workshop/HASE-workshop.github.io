@@ -47,5 +47,3 @@ Just a little bit further:
 
 Palo Alto is not far and has many good restaurants including the excellent Michelin-starred [Zola](http://www.zolapaloalto.com/).
 ASA, Ambiance and Zola will require advance booking.
-
-Website under construction.
